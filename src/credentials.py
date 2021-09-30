@@ -1,5 +1,5 @@
 # your twilio auth tokens | keys
-ACC_SID       = '<SKfb2894fc9cfc4579078f54afc4664718>'
+ACC_SID       = '<SK9887f96418af721cf61e0147ce82e105>'
 AUTH_TOKEN    = '<twilio-auth-token>'
 WHATSAPP_TO   = 'whatsapp:+13126673227'            # your twilio signed number
 WHATSAPP_FROM = 'whatsapp:+14155238886'
@@ -15,3 +15,7 @@ BULKSMSWEB_TOKEN = "<4C4F29DEE80944AFBF7722A5656A5D2D-02-2>"
 BULKSMSWEB_NAME  = "<Ameer bot>"
 
 HOTRECHARGE_PWD  = "<hot-recharge-key>"
+
+#secret xFDGyKezkSBcPBGzz05zY7uGwYC57yx7
+#sid SK9887f96418af721cf61e0147ce82e105
+#name second key
