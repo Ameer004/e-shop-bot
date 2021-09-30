@@ -1,5 +1,5 @@
 # your twilio auth tokens | keys
-ACC_SID       = '<twilio-acc-sid>'
+ACC_SID       = '<SKfb2894fc9cfc4579078f54afc4664718>'
 AUTH_TOKEN    = '<twilio-auth-token>'
 WHATSAPP_TO   = 'whatsapp:+13126673227'            # your twilio signed number
 WHATSAPP_FROM = 'whatsapp:+14155238886'
